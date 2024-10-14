@@ -7,7 +7,7 @@ Project 1: Progrmaing and Fixing our computers so that they run better. Faster t
 Project 2: Fixing cabels for the internet so that we can us ethe program and have fun.
 Project 3: Building computers s that we can work on them and so that we can do our work faster and better.
 
-[Im good at footbool]
+[Im good at football]
 [Im good at basketball]
 [Im good at arguing]
 ...

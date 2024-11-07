@@ -1,7 +1,7 @@
 # Whos-James
 🌱 I'm currently learning [Phyton].
-💼 I work at [School 2nd year].
-📫 You can reach me at [Obbypool@gmail.com] or [(https://jameslghost.polhemsskolan.com)].
+💼 I work at School 2nd year.
+📫 You can reach me at Obbypool@gmail.com or (https://jameslghost.polhemsskolan.com).
 
 Project 1: Progrmaing and Fixing our computers so that they run better. Faster things to make it better.
 Project 2: Fixing cabels for the internet so that we can us ethe program and have fun.
